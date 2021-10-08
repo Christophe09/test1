@@ -22,6 +22,8 @@ public class Exo1 {
         sc = new Scanner(System.in);
         System.out.println("Bonjour, quel est votre âge ?");
         prenom = sc.nextLine();
+        System.out.println("cc");
+        
     }
     
 }
